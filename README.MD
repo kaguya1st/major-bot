@@ -32,7 +32,7 @@ To use this bot, you need to register it with the Major Telegram Bot.
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/jawikas/major-bot.git
+    git clone https://github.com/kaguya1st/major-bot.git
     ```
 
 2. **Navigate to the project directory**
