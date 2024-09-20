@@ -1,7 +1,7 @@
 {
   "use_proxies": false,
-  "auto_complete_task": false,
-  "auto_play_game": false,
+  "auto_complete_task": true,
+  "auto_play_game": true,
   "account_delay": 5,
   "game_delay": 3,
   "wait_time": 3600,
